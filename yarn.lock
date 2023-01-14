@@ -6046,6 +6046,11 @@ react-native-simple-radio-buttons@^1.1.1:
   resolved "https://registry.yarnpkg.com/react-native-simple-radio-buttons/-/react-native-simple-radio-buttons-1.1.1.tgz#915cf953c5a020e66383e72fcbad067be5c7e767"
   integrity sha512-TDLWOmp4kf9E+nIlTJ+3+HIiKyD+QCvE7FKRqSKfw1pdRAfe5kWtxDAMFI0qVWNOUtUXiiclMTbFYzS+uXyXIw==
 
+react-native-splash-screen@^3.3.0:
+  version "3.3.0"
+  resolved "https://registry.yarnpkg.com/react-native-splash-screen/-/react-native-splash-screen-3.3.0.tgz#3af71ed17afe50fee69590a45aec399d071ead02"
+  integrity sha512-rGjt6HkoSXxMqH4SQUJ1gnPQlPJV8+J47+4yhgTIan4bVvAwJhEeJH7wWt9hXSdH4+VfwTS0GTaflj1Tw83IhA==
+
 react-native@0.71.0:
   version "0.71.0"
   resolved "https://registry.npmjs.org/react-native/-/react-native-0.71.0.tgz"
